@@ -1,6 +1,6 @@
 #Gustavo Fortini 🧑🏽‍💻
 
-Olá Meu nome é **Gustavo Fortini** tenho 18 anos, nascido em belo horizonte.
+Olá Meu nome é **Gustavo Fortini** tenho 18 anos, nascido em Belo horizonte.
 Conclui o ensino medio no cotemig, com o curso tecnico e hoje estou realizando a graduação na PUC MINAS realizando o curso **Sistemas da informação**.
 Melhorando sempre para me tornar um **`Desenvolvedor FullStack`**
 
